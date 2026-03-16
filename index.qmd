@@ -2,7 +2,7 @@
 title: "IS428-VA4BIProject"
 ---
 
-This is a Quarto website.
+This is a Quarto
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
